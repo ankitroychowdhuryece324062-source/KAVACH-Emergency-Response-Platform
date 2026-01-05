@@ -10,4 +10,4 @@ A web-based platform for verified users to report emergencies.
 - Firebase Authentication (Google OAuth)
 
 ## Live Demo
-https://alert-bright-hope.lovable.app
+https://k-a-v-a-c-h.lovable.app
